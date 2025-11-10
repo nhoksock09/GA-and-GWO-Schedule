@@ -1,0 +1,11 @@
+SubjectID,SubjectName,SubjectType
+S1,Math,Lecture
+S2,Physics,Lecture
+S3,English,Lecture
+S4,History,Lecture
+S5,Biology,Lab
+S6,PE,PE
+S7,Chemistry,Lab
+S8,Literature,Lecture
+S9,Informatics,Lab
+S10,Art,Lecture

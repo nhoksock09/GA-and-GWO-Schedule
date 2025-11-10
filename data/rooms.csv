@@ -1,0 +1,6 @@
+RoomID,Capacity,RoomType
+R1,30,Lecture
+R2,30,Lecture
+R3,30,Lab
+R4,30,Lab
+R5,30,PE

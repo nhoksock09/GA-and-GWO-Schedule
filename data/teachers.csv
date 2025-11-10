@@ -1,0 +1,6 @@
+TeacherID,TeacherName,Subjects,AvailableSlots
+T1,Giảng viên 1,S1|S2,T2-S|T3-S|T5-C
+T2,Giảng viên 2,S3|S4,T2-C|T3-C|T4-S
+T3,Giảng viên 3,S5|S6,T4-S|T4-C|T5-S
+T4,Giảng viên 4,S7|S8,T5-S|T5-C|T6-S
+T5,Giảng viên 5,S9|S10,T6-S|T6-C|T7-S
